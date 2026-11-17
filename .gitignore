@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+data/
+model/
+picks/
+odds_data/
+schedules/
+*.log
+.ipynb_checkpoints/
